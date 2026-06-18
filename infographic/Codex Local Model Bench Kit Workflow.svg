@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#28184f"/></linearGradient><style>.h{font:700 44px Inter,Arial;fill:#f4f7ff}.t{font:500 24px Inter,Arial;fill:#d9e2ff}.m{font:400 18px Inter,Arial;fill:#9fb0cc}.box{fill:#121a2f;stroke:#4c5f99;stroke-width:2;rx:24}.a{fill:#7c5cff}</style></defs>
+<rect width="1200" height="720" fill="url(#g)"/><text x="60" y="80" class="h">Codex Local Model Bench Kit</text><text x="60" y="120" class="m">Source: Codex OSS Mode for Local Models • Artifact score 8/10</text>
+<g transform="translate(70 190)"><rect class="box" width="250" height="150"/><text x="28" y="52" class="t">1. Input</text><text x="28" y="90" class="m">real task + context</text><text x="28" y="118" class="m">source constraints</text></g>
+<g transform="translate(365 190)"><rect class="box" width="250" height="150"/><text x="28" y="52" class="t">2. Agent run</text><text x="28" y="90" class="m">tool/model/workflow</text><text x="28" y="118" class="m">capture traces</text></g>
+<g transform="translate(660 190)"><rect class="box" width="250" height="150"/><text x="28" y="52" class="t">3. Judge</text><text x="28" y="90" class="m">rubric + evidence</text><text x="28" y="118" class="m">promotion gate</text></g>
+<g transform="translate(410 435)"><rect class="box" width="350" height="150"/><text x="28" y="52" class="t">4. Patch claims</text><text x="28" y="90" class="m">README / prototype / skill</text><text x="28" y="118" class="m">only after proof exists</text></g>
+<path d="M320 265h42M615 265h42M785 340L650 435M530 435L320 340" stroke="#7c5cff" stroke-width="8" fill="none" stroke-linecap="round"/></svg>
