@@ -28,6 +28,7 @@ Codex OSS/local-provider mode makes coding agents benchmarkable across hosted an
 - Improvement loop: [[Codex Local Model Bench Kit Loop]]
 - Evidence index: [[Codex Local Model Bench Kit/Trial Evidence Index]]
 - Promotion gate: [[Codex Local Model Bench Kit/Post-Trial Promotion Decision Card]]
+- Debrief gate: [[Codex Local Model Bench Kit/Post-Trial Debrief Template]]
 
 ## Prototype brief
 A fillable benchmark packet for comparing hosted Codex and OSS/local providers on one repo task.
@@ -45,10 +46,12 @@ https://github.com/vinayclawagent-art/codex-local-model-bench-kit
 - [ ] Run one real VinClawLabs task through the prototype.
 - [ ] Fill [[Codex Local Model Bench Kit/Trial Evidence Index]] with exact proof links.
 - [ ] Complete [[Codex Local Model Bench Kit/Post-Trial Promotion Decision Card]] after evidence exists.
+- [ ] Fill [[Codex Local Model Bench Kit/Post-Trial Debrief Template]] to convert evidence into exact README/prototype/skill patches.
 - [ ] Patch README/prototype/skill claims only with observed pitfalls.
 
 ## Change log
 - 2026-06-18: Created package, prototype, infographic, skill draft, loop, and GitHub repo mirror. Template-ready, not validated.
+- 2026-06-18: Added Post-Trial Debrief Template so future trial evidence can become precise claim patches; evidence still pending.
 
 ## Original source
 > Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models.
