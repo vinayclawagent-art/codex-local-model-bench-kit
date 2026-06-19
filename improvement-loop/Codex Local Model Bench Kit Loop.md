@@ -17,7 +17,7 @@ Package: [[Codex Local Model Bench Kit]]
 Prototype: [[Codex Local Model Bench Kit/Local Model Bench Packet]]
 
 ## Current state
-Template-ready, not validated. The package, prototype, infographic, skill draft, GitHub repo mirror, trial evidence index, promotion decision card, and post-trial debrief template, and trial operator handoff checklist exist.
+Template-ready, not validated. The package, prototype, infographic, skill draft, GitHub repo mirror, trial evidence index, promotion decision card, post-trial debrief template, and trial operator handoff checklist exist.
 
 ## Next focus
 Use [[Codex Local Model Bench Kit/Trial Operator Handoff Checklist]] to run one real trial with [[Codex Local Model Bench Kit/Local Model Bench Packet]], fill [[Codex Local Model Bench Kit/Trial Evidence Index]] with exact proof links, complete [[Codex Local Model Bench Kit/Post-Trial Promotion Decision Card]], then use [[Codex Local Model Bench Kit/Post-Trial Debrief Template]] to patch only evidence-backed claims.

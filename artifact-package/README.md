@@ -54,9 +54,9 @@ https://github.com/vinayclawagent-art/codex-local-model-bench-kit
 ## Change log
 - 2026-06-18: Created package, prototype, infographic, skill draft, loop, and GitHub repo mirror. Template-ready, not validated.
 - 2026-06-18: Added Post-Trial Debrief Template so future trial evidence can become precise claim patches; evidence still pending.
+- 2026-06-18: Added Trial Operator Handoff Checklist to sequence the next real trial across packet, evidence index, promotion card, and debrief gate; evidence still pending.
 
 ## Original source
 > Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models.
 >
 > https://developers.openai.com/codex/config-advanced#oss-mode-local-providers
-- 2026-06-18: Added Trial Operator Handoff Checklist to sequence the next real trial across packet, evidence index, promotion card, and debrief gate; evidence still pending.
