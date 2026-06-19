@@ -24,3 +24,6 @@ Open the files in `prototype/` directly. Fill the trial artifact with a real tas
 - Complete the Post-Trial Promotion Decision Card.
 - Fill the Post-Trial Debrief Template to turn proof into exact claim patches.
 - Promote or iterate the skill draft only after evidence exists.
+
+## Latest status
+Template-ready, not validated. Latest improvement: added Local Model Bench Evidence Quality Rubric on 2026-06-19.

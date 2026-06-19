@@ -43,6 +43,8 @@ Drafted as a reusable procedure; not promoted yet because it needs one real tria
 ## GitHub repo
 https://github.com/vinayclawagent-art/codex-local-model-bench-kit
 
+- Evidence/debrief gate: [[Codex Local Model Bench Kit/Local Model Bench Evidence Quality Rubric]]
+
 ## Improvement backlog
 - [ ] Run one real VinClawLabs task through the prototype.
 - [ ] Fill [[Codex Local Model Bench Kit/Trial Evidence Index]] with exact proof links.
@@ -52,6 +54,7 @@ https://github.com/vinayclawagent-art/codex-local-model-bench-kit
 - [ ] Patch README/prototype/skill claims only with observed pitfalls.
 
 ## Change log
+- 2026-06-19: Added Local Model Bench Evidence Quality Rubric; prepared next-trial evidence/debrief gate, evidence still pending.
 - 2026-06-18: Created package, prototype, infographic, skill draft, loop, and GitHub repo mirror. Template-ready, not validated.
 - 2026-06-18: Added Post-Trial Debrief Template so future trial evidence can become precise claim patches; evidence still pending.
 - 2026-06-18: Added Trial Operator Handoff Checklist to sequence the next real trial across packet, evidence index, promotion card, and debrief gate; evidence still pending.
