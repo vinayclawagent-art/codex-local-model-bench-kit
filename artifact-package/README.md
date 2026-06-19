@@ -29,6 +29,7 @@ Codex OSS/local-provider mode makes coding agents benchmarkable across hosted an
 - Evidence index: [[Codex Local Model Bench Kit/Trial Evidence Index]]
 - Promotion gate: [[Codex Local Model Bench Kit/Post-Trial Promotion Decision Card]]
 - Debrief gate: [[Codex Local Model Bench Kit/Post-Trial Debrief Template]]
+- Operator handoff: [[Codex Local Model Bench Kit/Trial Operator Handoff Checklist]]
 
 ## Prototype brief
 A fillable benchmark packet for comparing hosted Codex and OSS/local providers on one repo task.
@@ -46,6 +47,7 @@ https://github.com/vinayclawagent-art/codex-local-model-bench-kit
 - [ ] Run one real VinClawLabs task through the prototype.
 - [ ] Fill [[Codex Local Model Bench Kit/Trial Evidence Index]] with exact proof links.
 - [ ] Complete [[Codex Local Model Bench Kit/Post-Trial Promotion Decision Card]] after evidence exists.
+- [ ] Use [[Codex Local Model Bench Kit/Trial Operator Handoff Checklist]] to sequence the next real trial without losing proof links.
 - [ ] Fill [[Codex Local Model Bench Kit/Post-Trial Debrief Template]] to convert evidence into exact README/prototype/skill patches.
 - [ ] Patch README/prototype/skill claims only with observed pitfalls.
 
@@ -57,3 +59,4 @@ https://github.com/vinayclawagent-art/codex-local-model-bench-kit
 > Reminder that you can use the Codex App, CLI and SDK with any open source model, not just with OpenAI models.
 >
 > https://developers.openai.com/codex/config-advanced#oss-mode-local-providers
+- 2026-06-18: Added Trial Operator Handoff Checklist to sequence the next real trial across packet, evidence index, promotion card, and debrief gate; evidence still pending.
